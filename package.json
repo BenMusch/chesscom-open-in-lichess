@@ -52,7 +52,7 @@
     "gulp-zip": "^4.0.0",
     "puppeteer": "^0.13.0",
     "sass-module-importer": "^1.4.0",
-    "socket.io": "^2.0.4",
+    "socket.io": "^2.4.0",
     "socket.io-client": "^2.0.4",
     "vinyl-named": "^1.1.0",
     "webpack-stream": "^4.0.0"
